@@ -21,7 +21,7 @@
 -->
 [![Contributors](https://img.shields.io/badge/Contributors-1-<green>.svg)](https://github.com/AvaniBadkul/image-classification/graphs/contributors)
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+<!--[![LinkedIn][linkedin-shield]][linkedin-url]-->
 
 
 
