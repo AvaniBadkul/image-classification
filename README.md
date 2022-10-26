@@ -59,7 +59,7 @@ as an input to the RESNET18 model, they were resized to the dimensions of 224x22
 - ipywidgets
 
 ## Usage
-- Clone the repo to download the 'export.pkl' file which contains the model.
+- Clone the repo to download the 'export.pkl' file (from [here](https://drive.google.com/file/d/1GCS3Y-78AA8Lo3RD0g9n1ezx8jEpXo3J/view?usp=sharing)) which contains the model.
 - Open the .ipynb file in Jupyter Notebook or Google Colab.
 - Make sure the 'export.pkl' file exists
 - Run the following cells
